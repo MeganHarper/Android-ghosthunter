@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ghost Hunt Team 8</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="teamInfo">Caitlyn, Evan, Megan, Yixuan
+\n        University of Virginia
+\n        CS 2110, Spring 2014</string>
+    <string name="start">Start Hunting</string>
+    <string name="quit">Quit Game</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_game_start">GameStart</string>
+
+</resources>
